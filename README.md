@@ -32,11 +32,11 @@
 
 ## 📁 Folder Structure
 
-frontend/
-├── public/
-├── src/
-│ ├── assets/ # Static images + doctor info (assets.js)
-│ ├── components/ # UI Components like Navbar, Banner, Footer, etc.
+- frontend/
+- ├── public/
+- ├── src/
+- │ ├── assets/ # Static images + doctor info (assets.js)
+- │ ├── components/ # UI Components like Navbar, Banner, Footer, etc.
 │ ├── context/ # App-wide context (AppContext.jsx)
 │ ├── pages/ # Page-level components (Home, Doctors, Appointments, etc.)
 │ ├── App.jsx # Main App component
@@ -71,6 +71,10 @@ npm install
 npm run dev
 
 ```
+
+
+![image](https://github.com/user-attachments/assets/205c7801-df3b-4e54-a2a6-0cfe60c5b3aa)
+
 
 🌐 Deployment (via Vercel)
 - This app is deployed using Vercel:
