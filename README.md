@@ -92,3 +92,24 @@ Click Deploy
 
 Your site will be live in less than 2 minutes.
 
+
+📷 Screenshots
+
+HOME PAGE
+![image](https://github.com/user-attachments/assets/aaa95e33-8cd7-459f-9bd2-e0616dfeca14)
+![image](https://github.com/user-attachments/assets/48a96137-b3dc-4cfe-9dc4-67fc6588cd67)
+
+ALL DOCTORS PAGE
+![image](https://github.com/user-attachments/assets/af7353c0-42de-47f5-9dc8-313a78f51566)
+
+ABOUT US PAGE
+![image](https://github.com/user-attachments/assets/354adb1d-a55d-4357-bc53-84482563da7a)
+
+CONTACT PAGE
+![image](https://github.com/user-attachments/assets/3eb99bf5-aec4-4a11-8ab8-016c8c66024c)
+
+
+
+
+
+
