@@ -1,0 +1,35 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.bg-primary {
+  background-color: #5F6FFF; /* or any color you want */
+}
+
+.hover\:bg-primary:hover {
+  background-color: #5F6FFF;
+}
+
+*{
+  font-family:Outfit
+}
+
+::-webkit-scrollbar{
+  @apply hidden
+}
+
+/* @media (max-width:740px){
+  .active p{
+    @apply text-white bg-primary
+  }
+} */
+
+@media (max-width: 740px) {
+  .active p {
+    color: white;
+    background-color: #5F6FFF;
+  }
+}
+
+
