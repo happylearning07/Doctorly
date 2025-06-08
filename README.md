@@ -37,17 +37,17 @@
 - ├── src/
 - │ ├── assets/ # Static images + doctor info (assets.js)
 - │ ├── components/ # UI Components like Navbar, Banner, Footer, etc.
-│ ├── context/ # App-wide context (AppContext.jsx)
-│ ├── pages/ # Page-level components (Home, Doctors, Appointments, etc.)
-│ ├── App.jsx # Main App component
-│ ├── main.jsx # Entry point
-│ └── index.css # Global styles
-├── .gitignore
-├── eslint.config.js
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md
+- │ ├── context/ # App-wide context (AppContext.jsx)
+- │ ├── pages/ # Page-level components (Home, Doctors, Appointments, etc.)
+- │ ├── App.jsx # Main App component
+- │ ├── main.jsx # Entry point
+- │ └── index.css # Global styles
+- ├── .gitignore
+- ├── eslint.config.js
+- ├── index.html
+- ├── package.json
+- ├── vite.config.js
+- └── README.md
 
 
 
