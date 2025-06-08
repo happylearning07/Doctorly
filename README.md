@@ -73,31 +73,31 @@ npm run dev
 ```
 
 🌐 Deployment (via Vercel)
-This app is deployed using Vercel:
+- This app is deployed using Vercel:
 
-Push code to a GitHub repository
+- Push code to a GitHub repository
 
-Go to Vercel.com, login via GitHub
+- Go to Vercel.com, login via GitHub
 
-Click New Project → Select your repo
+- Click New Project → Select your repo
 
-Use default build settings:
+- Use default build settings:
 
-Build Command: npm run build
+- Build Command: npm run build
 
-Output Directory: dist
+- Output Directory: dist
 
-Click Deploy
+- Click Deploy
 
 Your site will be live in less than 2 minutes.
 
 
 🧠 Future Improvements
-Add a secure backend with authentication and database
+- Add a secure backend with authentication and database
 
-Integration with calendar and email for appointment reminders
+- Integration with calendar and email for appointment reminders
 
-Admin panel to manage doctors and appointments
+- Admin panel to manage doctors and appointments
 ---
 
 📄 License
