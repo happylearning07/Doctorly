@@ -1,12 +1,34 @@
-# React + Vite
+# 🩺 Doctorly – Online Doctor Appointment Booking Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Doctorly** is a sleek, responsive, and user-friendly web application designed to simplify the process of booking doctor appointments. Built using **React + Vite**, the project organizes medical services in a clean UI and allows users to view doctors, explore specializations, and book appointments seamlessly.
 
-Currently, two official plugins are available:
+> 🚀 **Live Demo:** [Click Here to Visit Site](https://doctorly-seven.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📌 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🧑‍⚕️ View and explore top doctors and their specializations
+- 📅 Book appointments with selected doctors
+- 🧾 My Appointments and Profile sections for users
+- 🔐 User login system (basic setup)
+- 🧭 Fully responsive and optimized for all screen sizes
+- 🌐 Fast deployment using GitHub + Vercel
+
+---
+
+## 🛠️ Tech Stack
+
+| Tech       | Description                           |
+|------------|---------------------------------------|
+| React.js   | Frontend library for building UI      |
+| Vite       | Lightning-fast frontend tooling       |
+| JavaScript | App logic and component behavior      |
+| JSX/CSS    | Styling and markup                    |
+| Vercel     | Deployment and hosting                |
+| ESLint     | Code quality and consistency          |
+
+---
+
+## 📁 Folder Structure
+
