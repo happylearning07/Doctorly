@@ -32,3 +32,63 @@
 
 ## 📁 Folder Structure
 
+frontend/
+├── public/
+├── src/
+│ ├── assets/ # Static images + doctor info (assets.js)
+│ ├── components/ # UI Components like Navbar, Banner, Footer, etc.
+│ ├── context/ # App-wide context (AppContext.jsx)
+│ ├── pages/ # Page-level components (Home, Doctors, Appointments, etc.)
+│ ├── App.jsx # Main App component
+│ ├── main.jsx # Entry point
+│ └── index.css # Global styles
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+
+
+
+
+
+
+
+---
+
+## 🚀 Getting Started
+
+### 📦 Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/doctorly.git
+
+# Go into the project folder
+cd frontend
+
+# Install dependencies
+npm install
+
+# Start the local development server
+npm run dev
+🌐 Deployment (via Vercel)
+This app is deployed using Vercel:
+
+Push code to a GitHub repository
+
+Go to Vercel.com, login via GitHub
+
+Click New Project → Select your repo
+
+Use default build settings:
+
+Build Command: npm run build
+
+Output Directory: dist
+
+Click Deploy
+
+Your site will be live in less than 2 minutes.
+
